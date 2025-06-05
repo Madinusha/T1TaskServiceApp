@@ -9,9 +9,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>MadinaT1</artifactId>
+	<artifactId>T1TaskServiceApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MadinaT1</name>
+	<name>T1TaskServiceApp</name>
 	<description>Madina`s T1 Task Service application</description>
 
 	<properties>
