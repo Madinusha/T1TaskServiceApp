@@ -1,3 +1,7 @@
 spring:
     application:
-        name: MadinaT1
+        name: T1TaskServiceApp
+
+task:
+    status-check:
+        interval: 5000
